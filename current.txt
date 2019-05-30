@@ -1,4 +1,4 @@
-#Copyright (c) 2018 Qualcomm Technologies, Inc.
+#Copyright (c) 2018-2019 Qualcomm Technologies, Inc.
 #All Rights Reserved.
 #Confidential and Proprietary - Qualcomm Technologies, Inc.
 
@@ -7,3 +7,7 @@
 #NFC HAL 1.0
 54b8eab16646fa63eb0892a549ab737cb3425638ec28628f7278572c9b2dfc4d vendor.nxp.hardware.nfc@1.0::types
 612bc0fd5b0e1280829d4c81200337eaa9b090d4942a5b97b18f8c9b362414d3 vendor.nxp.hardware.nfc@1.0::INqNfc
+
+#NFC HAL 1.1
+885f8b6bf3c31b56b527139523be06b661c98a7a3e93881d46f1c5d71a5e34ef vendor.nxp.hardware.nfc@1.1::types
+7b0fc9b6206b9404d3e28fbba11845f18b8c9e7f03f43873519b1d1fbf3965de vendor.nxp.hardware.nfc@1.1::INqNfc
