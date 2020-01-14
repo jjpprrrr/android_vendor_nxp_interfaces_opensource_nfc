@@ -15,7 +15,7 @@
  *  limitations under the License.
  ******************************************************************************/
 
-package vendor.nxp.hardware.nfc@1.2;
+package vendor.nxp.hardware.nfc@2.0;
 
 import android.hidl.safe_union@1.0::Monostate;
 
