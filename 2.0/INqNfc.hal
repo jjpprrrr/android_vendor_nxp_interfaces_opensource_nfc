@@ -111,20 +111,4 @@ interface INqNfc extends @1.1::INqNfc {
      * @return status as a boolean, true if LS update required, false if not required.
      */
      isLsUpdateRequired() generates (bool status);
-
-    /*
-     * Gets system property's value whose Key has been provided.
-     *
-     * @param string
-     * @return output data as string
-     */
-    getSystemProperty(string key)  generates (string value);
-
-    /*
-     * Saves the system property provided as key-value pair
-     *
-     * @param string key string value
-     * @return status as a boolean, true if success, false if failed
-     */
-    setSystemProperty(string key, string value)  generates (bool status);
 };
