@@ -34,3 +34,9 @@
 #NFC HAL 1.1
 885f8b6bf3c31b56b527139523be06b661c98a7a3e93881d46f1c5d71a5e34ef vendor.nxp.hardware.nfc@1.1::types
 7b0fc9b6206b9404d3e28fbba11845f18b8c9e7f03f43873519b1d1fbf3965de vendor.nxp.hardware.nfc@1.1::INqNfc
+
+### HAL released in Android R ###
+
+#NFC HAL 2.0
+889ceb69484c32a2e14e689773e5e8d1c917d492e6f1ea558d8f28707895e60d vendor.nxp.hardware.nfc@2.0::types
+46464c4d5ebb271d4fbf0c8fe65521390bed8c145e672d84021d97b2f15f34ac vendor.nxp.hardware.nfc@2.0::INqNfc
