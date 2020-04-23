@@ -40,3 +40,7 @@
 #NFC HAL 2.0
 889ceb69484c32a2e14e689773e5e8d1c917d492e6f1ea558d8f28707895e60d vendor.nxp.hardware.nfc@2.0::types
 46464c4d5ebb271d4fbf0c8fe65521390bed8c145e672d84021d97b2f15f34ac vendor.nxp.hardware.nfc@2.0::INqNfc
+
+#NFC Legacy HAL 1.0
+854504ea873418facf63694a7c404a6a78c763f1f4a1fb982f21e770de736dda vendor.nxp.nxpnfclegacy@1.0::types
+d33cfe21ec65b9c64ee9579515479f28e35140e8ac53f5e8680818ae3fe22201 vendor.nxp.nxpnfclegacy@1.0::INxpNfcLegacy
