@@ -8,3 +8,8 @@ hidl_package_root {
     name: "vendor.nxp.hardware.nfc",
     path: "vendor/nxp/opensource/interfaces/nfc",
 }
+
+hidl_package_root {
+    name: "vendor.nxp.nxpnfclegacy",
+    path: "vendor/nxp/opensource/interfaces/nfc/nxpnfclegacy",
+}
